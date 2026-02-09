@@ -1,6 +1,6 @@
 <!-- Neon Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&lines=Hi+I'm+Viaan+Thakur;Android+ROM+Developer;8th+Class+Student;I+use+Arch+btw" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&lines=Hi+I'm+Viaan+Thakur;Android+ROM+Developer;8th+Class+Student;I+use+Arch+btw;Just+a+curious+kid" />
 </p>
 
 <p align="center">
