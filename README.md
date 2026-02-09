@@ -7,7 +7,7 @@
 
 # 👋 About Me
 
-Hi, I'm **Viaan**  
+Hi, I'm **Viaan Thakur**  
 
 - 8th class student  
 - Learning Android ROM Development  
@@ -31,17 +31,16 @@ Hi, I'm **Viaan**
 - AOSP / Lineage based sources  
 - Linux Terminal  
 
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViaanLarryROMS&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 # 🚀 Current Goal
 
 Learning more about Android internals and improving my development skills every day.
+
+---
+
+## 🔗 Links
+
+[![YouTube](https://img.shields.io/badge/YouTube-RealisticWindows98-red?logo=youtube&logoColor=white)](https://youtube.com/@realisticwindows98)
+
+[![Website](https://img.shields.io/badge/Website-Visit-blue?logo=google-chrome&logoColor=white)](https://viaanlarryroms.github.io/Viaan_IS_A_ROM_DEV/)
+
 
