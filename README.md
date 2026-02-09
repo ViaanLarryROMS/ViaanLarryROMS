@@ -44,8 +44,11 @@ Learning more about Android internals and improving my development skills every 
 
 # Devices Owned 📱 
 Redmi Note 10 (sunny)
+
 OnePlus Nord CE 3 Lite 5G (larry)
+
 Lenovo Tab M10 (tbx-505x)
+
 
 
 ## 🔗 Links
@@ -63,3 +66,7 @@ Lenovo Tab M10 (tbx-505x)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:00FF9C&height=120&section=footer"/>
 </p>
+
+---
+# Contact me on
+EMAIL : viaan152013@gmail.com
