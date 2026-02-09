@@ -40,6 +40,11 @@ Hi, I'm **Viaan Thakur**
 
 Learning more about Android internals and improving my development skills every day.
 
+---
+Redmi Note 10 (sunny)
+OnePlus Nord CE 3 Lite 5G (larry)
+Lenovo Tab M10 5G (tbx-505x)
+
 
 ## 🔗 Links
 
