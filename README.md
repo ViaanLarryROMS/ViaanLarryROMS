@@ -40,15 +40,6 @@ Hi, I'm **Viaan Thakur**
 
 Learning more about Android internals and improving my development skills every day.
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViaanLarryROMS&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 🔗 Links
 
