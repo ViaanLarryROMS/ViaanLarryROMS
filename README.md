@@ -48,6 +48,9 @@ OnePlus Nord CE 3 Lite 5G (larry)
 
 Lenovo Tab M10 (tbx-505x)
 
+HP Pavilion 15 (i5 8265u, 16 GB DDR4, 500GB SSD)
+
+PC (i3 10100, RTX 3060, 16 GB DDR4)
 
 
 ## 🔗 Links
